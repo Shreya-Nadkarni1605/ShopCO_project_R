@@ -1,1 +1,2 @@
 # ShopCO_project_R
+Shopco, owner of various malls in United States, just initiated a real-time mobile message system in one of their malls, by which a short text is sent to consumers on their mobile phone right after their first purchase in the mall. You are hired as a business analyst to (1) investigate the role of real-time mobile message in the mall on consumer’s intention to keep shopping and (2) to classify consumers using sales data and (3) to further cluster consumers of high loyalty status.
